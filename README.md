@@ -8,6 +8,12 @@ This project is based on the [MahaTTS repository](https://github.com/dubverse-ai
 
 Before getting started, make sure you have [Docker](https://www.docker.com/get-started) installed on your machine.
 
+To get started, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/Shiven-Patel-IIT/Maha-TTS-inference-using-docker
+cd Maha-TTS-inference-using-docker
+```
 ## Steps to Run the Code
 
 ### 1. Build the Docker Image
