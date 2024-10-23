@@ -2,6 +2,8 @@
 
 This project uses a pre-trained TTS (Text-to-Speech) model to generate audio from text input based on a reference speaker. The setup is containerized using Docker to handle all dependencies seamlessly.
 
+This project is based on the [MahaTTS repository](https://github.com/dubverse-ai/MahaTTS) by Dubverse AI.
+
 ## Prerequisites
 
 Before getting started, make sure you have [Docker](https://www.docker.com/get-started) installed on your machine.
