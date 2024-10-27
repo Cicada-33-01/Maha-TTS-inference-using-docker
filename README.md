@@ -29,4 +29,4 @@ The Dockerfile is configured to install all necessary dependencies and set up th
 2. Run the following command to run the inference code that will prompt user for input text to be synthesized.
 
    ```bash
-   docker run -it python-input-app
+   docker run --gpus all -it python-input-app
