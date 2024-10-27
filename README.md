@@ -34,4 +34,4 @@ The Dockerfile is configured to install all necessary dependencies and set up th
 3. To locate the generated audio file and copy it to a local folder , first identify the running docker container id using "docker ps" command and then run this command
 
    ```bash
-   docker cp <container id>:.\app\generated-audio\test.wav <local destination path>
+   docker cp <container id>:.\app\generated-audio\test_english.wav <local destination path>
